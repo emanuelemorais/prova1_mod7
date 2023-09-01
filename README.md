@@ -16,4 +16,5 @@ O compose é usado usado para gerenciar os container criados anteriormente e pod
 #### Instruções para rodar essa aplicação:
 (Pré requisito ter docker configurado na máquina)
 - Clonar esse repositorio
+- Entrar no diretório `prova1-mod7/Avaliacoes-M7-Inteli-main`
 - Rodar o comando `docker compose up` no terminal
